@@ -1,0 +1,17 @@
+-main Server
+-cpp server.exec
+
+--next
+
+-main Server
+-neko server.n
+
+--next
+
+-main Client
+-swf client.swf
+
+--next 
+
+-main Client
+-cpp client.exec
